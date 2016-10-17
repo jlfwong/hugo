@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/spf13/cast"
-	"github.com/spf13/hugo/helpers"
+	"github.com/jlfwong/hugo/helpers"
 )
 
 // Pager represents one of the elements in a paginator.

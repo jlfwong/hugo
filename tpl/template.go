@@ -23,9 +23,9 @@ import (
 
 	"github.com/eknkc/amber"
 	"github.com/spf13/afero"
-	bp "github.com/spf13/hugo/bufferpool"
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugofs"
+	bp "github.com/jlfwong/hugo/bufferpool"
+	"github.com/jlfwong/hugo/helpers"
+	"github.com/jlfwong/hugo/hugofs"
 	jww "github.com/spf13/jwalterweatherman"
 	"github.com/yosssi/ace"
 )

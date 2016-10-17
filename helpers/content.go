@@ -27,7 +27,7 @@ import (
 	"github.com/miekg/mmark"
 	"github.com/mitchellh/mapstructure"
 	"github.com/russross/blackfriday"
-	bp "github.com/spf13/hugo/bufferpool"
+	bp "github.com/jlfwong/hugo/bufferpool"
 	jww "github.com/spf13/jwalterweatherman"
 	"github.com/spf13/viper"
 

@@ -23,7 +23,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/spf13/hugo/hugofs"
+	"github.com/jlfwong/hugo/hugofs"
 
 	"github.com/spf13/afero"
 	"github.com/spf13/viper"

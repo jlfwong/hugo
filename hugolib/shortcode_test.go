@@ -22,11 +22,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugofs"
-	"github.com/spf13/hugo/source"
-	"github.com/spf13/hugo/target"
-	"github.com/spf13/hugo/tpl"
+	"github.com/jlfwong/hugo/helpers"
+	"github.com/jlfwong/hugo/hugofs"
+	"github.com/jlfwong/hugo/source"
+	"github.com/jlfwong/hugo/target"
+	"github.com/jlfwong/hugo/tpl"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/require"
 )

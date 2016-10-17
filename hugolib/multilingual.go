@@ -22,7 +22,7 @@ import (
 	"fmt"
 
 	"github.com/spf13/cast"
-	"github.com/spf13/hugo/helpers"
+	"github.com/jlfwong/hugo/helpers"
 )
 
 type Multilingual struct {

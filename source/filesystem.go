@@ -21,12 +21,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/spf13/hugo/hugofs"
+	"github.com/jlfwong/hugo/hugofs"
 	"golang.org/x/text/unicode/norm"
 
 	"github.com/spf13/viper"
 
-	"github.com/spf13/hugo/helpers"
+	"github.com/jlfwong/hugo/helpers"
 	jww "github.com/spf13/jwalterweatherman"
 )
 

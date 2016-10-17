@@ -16,7 +16,7 @@ package main
 import (
 	"runtime"
 
-	"github.com/spf13/hugo/commands"
+	"github.com/jlfwong/hugo/commands"
 	jww "github.com/spf13/jwalterweatherman"
 	"os"
 )

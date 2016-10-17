@@ -16,7 +16,7 @@ package hugolib
 import (
 	"sort"
 
-	"github.com/spf13/hugo/helpers"
+	"github.com/jlfwong/hugo/helpers"
 )
 
 // The TaxonomyList is a list of all taxonomies and their values

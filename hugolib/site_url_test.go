@@ -17,12 +17,12 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/spf13/hugo/helpers"
+	"github.com/jlfwong/hugo/helpers"
 
 	"html/template"
 
-	"github.com/spf13/hugo/hugofs"
-	"github.com/spf13/hugo/source"
+	"github.com/jlfwong/hugo/hugofs"
+	"github.com/jlfwong/hugo/source"
 	"github.com/spf13/viper"
 )
 

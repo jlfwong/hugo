@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/spf13/cast"
-	"github.com/spf13/hugo/helpers"
+	"github.com/jlfwong/hugo/helpers"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

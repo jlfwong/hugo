@@ -23,7 +23,7 @@ import (
 
 	jww "github.com/spf13/jwalterweatherman"
 
-	"github.com/spf13/hugo/helpers"
+	"github.com/jlfwong/hugo/helpers"
 
 	"github.com/spf13/cast"
 )

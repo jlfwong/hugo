@@ -14,8 +14,8 @@
 package hugolib
 
 import (
-	"github.com/spf13/hugo/source"
-	"github.com/spf13/hugo/tpl"
+	"github.com/jlfwong/hugo/source"
+	"github.com/jlfwong/hugo/tpl"
 )
 
 type Handler interface {

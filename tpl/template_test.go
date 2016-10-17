@@ -25,7 +25,7 @@ import (
 	"testing"
 
 	"github.com/spf13/afero"
-	"github.com/spf13/hugo/hugofs"
+	"github.com/jlfwong/hugo/hugofs"
 )
 
 // Some tests for Issue #1178 -- Ace

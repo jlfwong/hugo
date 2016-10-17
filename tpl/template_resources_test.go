@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"github.com/spf13/afero"
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugofs"
+	"github.com/jlfwong/hugo/helpers"
+	"github.com/jlfwong/hugo/hugofs"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 )

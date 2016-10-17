@@ -20,8 +20,8 @@ import (
 	"reflect"
 
 	"github.com/mitchellh/mapstructure"
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/parser"
+	"github.com/jlfwong/hugo/helpers"
+	"github.com/jlfwong/hugo/parser"
 
 	"html/template"
 	"io"
@@ -35,10 +35,10 @@ import (
 	"unicode/utf8"
 
 	"github.com/spf13/cast"
-	bp "github.com/spf13/hugo/bufferpool"
-	"github.com/spf13/hugo/hugofs"
-	"github.com/spf13/hugo/source"
-	"github.com/spf13/hugo/tpl"
+	bp "github.com/jlfwong/hugo/bufferpool"
+	"github.com/jlfwong/hugo/hugofs"
+	"github.com/jlfwong/hugo/source"
+	"github.com/jlfwong/hugo/tpl"
 	jww "github.com/spf13/jwalterweatherman"
 	"github.com/spf13/viper"
 )

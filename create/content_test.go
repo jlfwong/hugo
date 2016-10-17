@@ -19,8 +19,8 @@ import (
 	"testing"
 
 	"github.com/spf13/afero"
-	"github.com/spf13/hugo/create"
-	"github.com/spf13/hugo/hugofs"
+	"github.com/jlfwong/hugo/create"
+	"github.com/jlfwong/hugo/hugofs"
 	"github.com/spf13/viper"
 )
 
