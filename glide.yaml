@@ -1,0 +1,55 @@
+package: .
+import:
+- package: github.com/PuerkitoBio/purell
+- package: github.com/bep/inflect
+- package: github.com/dchest/cssmin
+- package: github.com/eknkc/amber
+- package: github.com/fsnotify/fsnotify
+- package: github.com/gorilla/websocket
+- package: github.com/jlfwong/hugo
+  subpackages:
+  - bufferpool
+  - commands
+  - create
+  - helpers
+  - hugofs
+  - hugolib
+  - livereload
+  - parser
+  - source
+  - target
+  - tpl
+  - transform
+  - utils
+  - watcher
+- package: github.com/kardianos/osext
+- package: github.com/kyokomi/emoji
+- package: github.com/miekg/mmark
+- package: github.com/mitchellh/mapstructure
+- package: github.com/nicksnyder/go-i18n
+  subpackages:
+  - i18n/bundle
+- package: github.com/pelletier/go-toml
+- package: github.com/russross/blackfriday
+- package: github.com/spf13/afero
+- package: github.com/spf13/cast
+- package: github.com/spf13/cobra
+  subpackages:
+  - doc
+- package: github.com/spf13/fsync
+- package: github.com/spf13/jwalterweatherman
+- package: github.com/spf13/nitro
+- package: github.com/spf13/pflag
+- package: github.com/spf13/viper
+- package: github.com/yosssi/ace
+- package: golang.org/x/text
+  subpackages:
+  - transform
+  - unicode/norm
+- package: gopkg.in/yaml.v2
+testImport:
+- package: github.com/fortytw2/leaktest
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert
+  - require
